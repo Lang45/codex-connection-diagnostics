@@ -39,3 +39,4 @@ contains no user credentials or machine-specific connection details.
 
 This skill is a diagnostic guide. It does not automatically change proxy
 settings, rewrite `config.toml`, or migrate existing Codex tasks.
+
