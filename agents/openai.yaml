@@ -1,0 +1,8 @@
+interface:
+  display_name: "Codex Connection Diagnostics"
+  short_description: "Diagnose Codex reconnect loops and timeouts"
+  default_prompt: "Use $codex-connection-diagnostics to diagnose this Codex reconnect or request-timeout loop."
+
+policy:
+  allow_implicit_invocation: true
+
